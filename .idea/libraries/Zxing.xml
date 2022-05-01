@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Zxing">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Core/Libraries/Zxing" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/src/Core/Libraries/Zxing" recursive="false" />
+  </library>
+</component>

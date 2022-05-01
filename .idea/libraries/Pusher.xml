@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Pusher">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Core/Libraries/Pusher" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/src/Core/Libraries/Pusher" recursive="false" />
+  </library>
+</component>
