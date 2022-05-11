@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projec" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GrabIt" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -139,7 +139,7 @@
       <workItem from="1651398751657" duration="119000" />
       <workItem from="1651401737976" duration="9994000" />
       <workItem from="1651442351563" duration="887000" />
-      <workItem from="1651742903464" duration="392000" />
+      <workItem from="1651742903464" duration="526000" />
     </task>
     <servers />
   </component>
